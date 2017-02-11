@@ -10,3 +10,5 @@
 |printf|<http://en.cppreference.com/w/cpp/io/c/fprintf>|<https://msdn.microsoft.com/en-us/library/wc7014hz.aspx>|
 |scanf|<http://en.cppreference.com/w/cpp/io/c/fscanf>|<https://msdn.microsoft.com/en-us/library/9y6s16x1.aspx>|
 |if|<http://en.cppreference.com/w/cpp/language/if>|<https://msdn.microsoft.com/en-us/library/y34a3dk2.aspx>|
+|for|<https://msdn.microsoft.com/en-us/library/b80153d8.aspx>|<http://en.cppreference.com/w/cpp/language/for>|
+|function|<https://msdn.microsoft.com/en-us/library/c4d5ssht.aspx>|<http://en.cppreference.com/w/cpp/language/functions>|
