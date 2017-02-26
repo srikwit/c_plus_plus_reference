@@ -50,3 +50,6 @@
 |inline|<https://msdn.microsoft.com/en-us/library/bw1hbe6y.aspx>|<http://en.cppreference.com/w/cpp/language/inline>|
 |Function overloading|<https://msdn.microsoft.com/en-us/library/5dhe1hce.aspx>|<http://en.cppreference.com/w/cpp/language/functions>|
 |Function templates|<https://msdn.microsoft.com/en-us/library/y2se4kz7.aspx>|<http://en.cppreference.com/w/cpp/language/function_template>|
+|Code block|<https://msdn.microsoft.com/en-us/library/b7kfh662%28v=vs.140%29.aspx>|<http://en.cppreference.com/w/cpp/language/scope>|
+|Storage classes|<https://msdn.microsoft.com/en-us/library/y5f6w579.aspx>|<http://en.cppreference.com/w/cpp/language/storage_duration>|
+|Namespace aliasing|<https://msdn.microsoft.com/en-us/library/5cb46ksf.aspx>|<http://en.cppreference.com/w/cpp/language/namespace_alias>|
